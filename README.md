@@ -1,6 +1,5 @@
 # NLP_Lancaster
 Norm-based analysis using NLP (Lancaster sensorimotor norms)
-# README: Lancaster Norms Analysis Script
 
 ## Overview
 This script processes text data to compute word frequencies based on the Lancaster norms and calculates sensory scores (olfactory, gustatory, auditory, etc.) for each document. A Document-Term Matrix (DTM) is generated for each participant, and the resulting sensory analysis is saved in a CSV file.
