@@ -136,7 +136,7 @@ document_totals_matrix <- do.call(rbind, document_totals_list)
 print(document_totals_matrix)
 
 # Save the final matrix to a CSV file, including both frequencies and incidence
-write.csv(document_totals_matrix, file = "lancaster_analysis_with_incidence.csv", row.names = TRUE)
+write.csv(document_totals_matrix, file = "lancaster_analysis.csv", row.names = TRUE)
 
 
 
