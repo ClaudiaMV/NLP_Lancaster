@@ -1,14 +1,3 @@
----
-title: "Norm_based_analysis_code_map"
-author: "Claudia Morales Valiente"
-date: "2024-10-02"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Map of the loops
 
 ### 1. **Loop 1: Iterating over each row to create Document-Term Matrices (DTMs)**
